@@ -2,7 +2,8 @@
 
 * {
   font-family: "Roboto", sans-serif;
-  --basic-theme-color: rgb(251, 144, 144);
+  --basic-theme-color: rgb(255, 179, 179);
+  text-transform: capitalize;
 }
 
 body {
@@ -35,7 +36,7 @@ button {
 }
 
 button:hover {
-  opacity: 0.8;
+  opacity: 0.6;
   cursor: pointer;
 }
 
